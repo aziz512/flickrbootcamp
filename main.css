@@ -1,0 +1,15 @@
+.popup{
+    position:absolute;
+    left:35%;
+    top:20%;
+    display:none;
+    min-width:100px;
+    min-height:100px;
+}
+#input{
+    width:240px;
+    display:inline-block;
+}
+.navbar-brand-padding{
+    padding:8 10 0 15 !important;
+}
